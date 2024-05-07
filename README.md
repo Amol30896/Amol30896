@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Amol Patil
-- 👀 I’m interested in Data science analytics and visulization
-- 🌱 I’m currently learning web development
+- 👀 I’m Data Engineer
 - 💞️ I’m looking to collaborate on project
 - 📫 How to reach me mail -amol.patil095@gmail.com,Linkedin-www.linkedin.com/mr-amol-patil-a3874a130
 
